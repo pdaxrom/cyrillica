@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Exec=cyrkbdset
+Icon=CyrKbdSet
+Name=CyrKeyboard
+Name[ru]=Клавиатура
+Display=640x480/144dpi,480x640/144dpi

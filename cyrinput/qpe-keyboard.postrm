@@ -1,0 +1,3 @@
+#!/bin/sh
+/opt/Qtopia/bin/qcop QPE/TaskBar "reloadInputMethods()"
+/opt/Qtopia/bin/qcop QPE/TaskBar "reloadApplets()"

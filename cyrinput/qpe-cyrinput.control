@@ -1,0 +1,9 @@
+Files: /opt/Qtopia/plugins/inputmethods/libcyrinput.so* /opt/Qtopia/plugins/applets/libkbdapplet.so*
+Priority: optional
+Section: qpe/inputmethods
+Maintainer: Alexander Chukov <alexander.chukov@eqrd.net>
+Architecture: arm
+Version: $QPE_VERSION-3
+Depends: qpe-base ($QPE_VERSION)
+Description: Cyrillic Keyboard input method
+ Cyrillic Keyboard input method for the Qtopia environment.

@@ -1,0 +1,9 @@
+Files: /opt/Qtopia/plugins/applets/libkbdapplet.so*
+Priority: optional
+Section: qpe/taskbar
+Maintainer: Alexander Chukov <alexander.chukov@eqrd.net>
+Architecture: arm
+Version: $QPE_VERSION-3
+Depends: qpe-base ($QPE_VERSION)
+Description: Kbd Layout applet
+Keyboard layout switcher for the Qtopia environment taskbar.
